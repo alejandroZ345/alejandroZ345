@@ -27,7 +27,7 @@
 
 ```
 > Name   : Alejandro Zavala Zenteno
-> Role   : Jr. Cybersecurity Engineer & Computer Systems Graduate
+> Role   : Jr. Cybersecurity Professional & (soon to be) Computational Systems Engineer
 > Cert   : ISC2 Certified in Cybersecurity (CC) · 2026–2029
 > Base   : Morelia, Michoacán · Mexico  [UTC-6]
 > Focus  : SOC Operations | Threat Detection | SIEM Engineering
