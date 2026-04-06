@@ -1,21 +1,7 @@
-<!-- ============================================================
-     ALEJANDRO ZAVALA — GitHub Profile README
-     Place this file at: <your-username>/<your-username>/README.md
-     ============================================================ -->
-
 <div align="center">
-
-```
-███████╗███████╗ ██████╗       ███████╗ ██████╗  ██████╗
-██╔════╝██╔════╝██╔════╝       ██╔════╝██╔═══██╗██╔════╝
-███████╗█████╗  ██║            ███████╗██║   ██║██║
-╚════██║██╔══╝  ██║            ╚════██║██║   ██║██║
-███████║███████╗╚██████╗       ███████║╚██████╔╝╚██████╗
-╚══════╝╚══════╝ ╚═════╝       ╚══════╝ ╚═════╝  ╚═════╝
-```
-
-**`Cybersecurity Professional | ISC2 CC | SOC Operations`**
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Alejandro+Zavala;Cybersecurity+Professional;ISC2+CC+Certified;SOC+Operations+Analyst;Defending+perimeters+one+log+at+a+time..." alt="Typing SVG" />
+  </a>
 </div>
 
 ---
@@ -147,11 +133,6 @@ drwxr-xr-x  wazuh-siem-homelab/
 
 ---
 
-```bash
-┌──(alejandro㉿sec-ops)-[~]
-└─$ shutdown --message
-
-> Closing session...
-> Powered by coffee and stack overflow answers I don't fully understand.
-> Connection closed.
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=System+secure.+Monitoring+active...;Connection+closed.;Press+any+key+to+exit_&width=600" alt="Footer Animation" />
+</div>
