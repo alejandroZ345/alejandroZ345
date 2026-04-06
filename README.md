@@ -49,7 +49,7 @@
     └─ Agents reporting .................... Windows + Linux
 
 [*] Next objectives ........................ QUEUED
-    └─ [ ] MITRE ATT&CK complete mapping
+    └─ [x] MITRE ATT&CK complete mapping
     └─ [ ] Custom Wazuh dashboard
     └─ [ ] Active Response automation
     └─ [ ] TheHive integration
@@ -100,7 +100,7 @@ drwxr-xr-x  wazuh-siem-homelab/
 │            └─ /etc/passwd tampering · Rule 554 & 550
 ├── Phase 5 · Custom XML rules & detection tuning       [✓ DONE]
 │            └─ Rules 100001 · 100002 · 100003
-├── Phase 6 · MITRE ATT&CK mapping table               [  TODO]
+├── Phase 6 · MITRE ATT&CK mapping table               [✓ DONE]
 ├── Phase 7 · Custom Wazuh dashboard                   [  TODO]
 ├── Phase 8 · Active Response automation               [  TODO]
 └── Phase 9 · TheHive incident case management         [  TODO]
