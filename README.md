@@ -138,13 +138,9 @@ drwxr-xr-x  wazuh-soc-homelab/
 ```
 
 ```
-<div align="center">
-<pre>
 "The goal is not to be better than everyone else,
  but to be better than you were yesterday."
 Building in public · Documenting every step · Failing forward.
-</pre>
-</div>
 ```
 
 ---
