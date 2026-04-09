@@ -67,7 +67,7 @@ Enterprise-grade **Wazuh SIEM/XDR + TheHive IRP** deployment — 9 phases coveri
     └─ SOC dashboard ........................... Custom OpenSearch KPI panel (5 visualizations)
 
 [*] Next objectives ............................ QUEUED
-    └─ [ ] Lateral Movement & Exfiltration MITRE gap coverage
+    └─ [ ] ???
 ```
 
 ---
