@@ -1,4 +1,8 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Alejandro+Zavala;Cybersecurity+Professional;ISC2+CC+Certified;SOC+Operations+Analyst;Defending+perimeters+one+log+at+a+time...)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -113,6 +117,8 @@ drwxr-xr-x  wazuh-soc-homelab/
 
 ---
 
+<div align="center">
+
 **[ Stack ]**
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-4.14.4-00a2e8?style=flat-square)
@@ -128,3 +134,5 @@ drwxr-xr-x  wazuh-soc-homelab/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Zavala-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-zavala-zenteno)
 [![ISC2](https://img.shields.io/badge/ISC2-CC_Certified-green?style=flat-square)](https://www.credly.com/badges/fe6eeefe-d684-45fa-8f57-9f7d025db2d6/public_url)
+
+</div>
