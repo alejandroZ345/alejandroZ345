@@ -141,6 +141,6 @@ drwxr-xr-x  wazuh-soc-homelab/
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=alejandro@soc-node:~%24+exit;Saving+session...;logout;EOF.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=alejandro@soc-node:~%24+exit;Saving+session...;Session+Closed)](https://git.io/typing-svg)
 
 </div>
