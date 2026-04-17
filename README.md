@@ -164,8 +164,7 @@ Building in public · Documenting every step · Failing forward.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Zavala-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-zavala-zenteno)
 [![ISC2](https://img.shields.io/badge/ISC2-CC_Certified-green?style=flat-square)](https://www.credly.com/badges/fe6eeefe-d684-45fa-8f57-9f7d025db2d6/public_url)
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/alejandro.zavala.zenteno.png)](https://tryhackme.com/p/alejandro.zavala.zenteno)
-
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Alejandro_Zavala-C52923?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/alejandro.zavala.zenteno)
 </div>
 
 ---
